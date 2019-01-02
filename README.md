@@ -18,4 +18,4 @@ GET /stats - Returns stream stats
 
 More endpoints soon TM
 
-WIP endpoints will most likely be unstable and may crash at any time. Don't use the metadata on any stream apart from the main one, th eothers are incorrect.
+WIP endpoints will most likely be unstable and may crash at any time. Don't use the metadata on any stream apart from the main one, the others are incorrect.
